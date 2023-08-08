@@ -1,1 +1,3 @@
-# ws-ce-lesson-3.11
+# Activity for Lesson 3.11
+
+## Continuous Deployment - Container
