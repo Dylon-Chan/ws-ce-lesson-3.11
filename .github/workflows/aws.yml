@@ -76,6 +76,6 @@ jobs:
       uses: aws-actions/amazon-ecs-deploy-task-definition@v1
       with:
         task-definition: ${{ steps.task-def.outputs.task-definition }}
-        service: ws-ce-lesson-3-11-ecs-service
+        service: ws-ce-lesson-3-11-v3
         cluster: ws-ce-lesson-3-11
         wait-for-service-stability: true
